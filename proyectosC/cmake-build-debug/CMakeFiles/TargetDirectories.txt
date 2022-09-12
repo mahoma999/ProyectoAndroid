@@ -1,0 +1,3 @@
+/home/mahoma/Documentos/proyectosGit/proyectosC/cmake-build-debug/CMakeFiles/proyectosC.dir
+/home/mahoma/Documentos/proyectosGit/proyectosC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mahoma/Documentos/proyectosGit/proyectosC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
