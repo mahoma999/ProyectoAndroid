@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <malloc.h>
-
+//oscar
 int ** matriz(int,int);
 void imprimirMatris(int,int,int **);
 void llenarMatris(int,int,int**);
