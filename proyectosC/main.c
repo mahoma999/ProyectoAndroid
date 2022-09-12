@@ -40,4 +40,3 @@ void llenarMatris(int f,int c,int **m){
             m[i][j]=valor;
         }
 }
-//autor oscar
