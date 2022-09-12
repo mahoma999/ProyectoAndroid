@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <malloc.h>
-//exelente trabajo
+
 int ** matriz(int,int);
 void imprimirMatris(int,int,int **);
 void llenarMatris(int,int,int**);
@@ -40,3 +40,4 @@ void llenarMatris(int f,int c,int **m){
             m[i][j]=valor;
         }
 }
+//autor oscar
